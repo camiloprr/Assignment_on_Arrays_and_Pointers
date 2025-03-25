@@ -1,1 +1,1 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{camiloprr}/{Assignment_on_Arrays_and_Pointers}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{camiloprr}/{Assignment_on_Arrays_and_Pointers})
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/camiloprr/Assignment_on_Arrays_and_Pointers/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/camiloprr/Assignment_on_Arrays_and_Pointers)
